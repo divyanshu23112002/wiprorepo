@@ -1,0 +1,2 @@
+# wiprorepo
+repository for wipro
